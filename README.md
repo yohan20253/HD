@@ -1,2 +1,1 @@
-@Hanz_Миша Ганц • Следовать:script 👇🏻
-loadstring(game:HttpGet("https://rawscripts.net/raw/Slap-Tower-Slap-Tower-Works-Other-Slap-Gamep*-Games-too-34092"))()
+@Amdyy:loadstring(game:HttpGet("https://raw.githubusercontent.com/amdzy088/Slap-spam-op/refs/heads/main/Slap%20spam%20op"))()
